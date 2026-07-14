@@ -1,0 +1,4 @@
+transaction_id,item,quantity,price,location
+T1001,Silver Bullets,50,1.50,Niceville
+T1002,Leather Saddle,1,120.00,Destin
+T1003,Gunpowder Keg,2,45.00,Greenville
