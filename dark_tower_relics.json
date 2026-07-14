@@ -1,0 +1,35 @@
+[
+  {
+    "artifact_id": "R-001",
+    "name": "Maerlyn's Grapefruit",
+    "origin": "Mid-World",
+    "properties": {
+      "type": "Wizard's Glass",
+      "color": "Pink",
+      "danger_level": "Extreme"
+    },
+    "coordinates": {"direction": "Path of the Beam", "sector": "Southeast"}
+  },
+  {
+    "artifact_id": "R-002",
+    "name": "The Unfound Door Key",
+    "origin": "New York / Keystone Earth",
+    "properties": {
+      "type": "Object of Power",
+      "color": "Silver",
+      "danger_level": "Low"
+    },
+    "coordinates": {"direction": "Dixie Pig Base", "sector": "Northeast"}
+  },
+  {
+    "artifact_id": "R-003",
+    "name": "Black Thirteen",
+    "origin": "Todash Space",
+    "properties": {
+      "type": "Wizard's Glass",
+      "color": "Black",
+      "danger_level": "Catastrophic"
+    },
+    "coordinates": {"direction": "Under New York", "sector": "Unknown"}
+  }
+]
